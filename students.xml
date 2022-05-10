@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <student ID="5">
+        <Name>John</Name>
+        <Group>223</Group>
+    </student>
+    <student ID="6">
+        <Name>szia</Name>
+        <Group>223</Group>
+    </student>
+</Entities>
